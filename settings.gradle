@@ -1,0 +1,2 @@
+include ':sww01_testBroadcastStaticAndDynamic'
+include ':sww02_testMultiActivity'

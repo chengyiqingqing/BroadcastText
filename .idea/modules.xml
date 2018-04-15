@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BroadcastTest.iml" filepath="$PROJECT_DIR$/BroadcastTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sww01_testBroadcastStaticAndDynamic/sww01_testBroadcastStaticAndDynamic.iml" filepath="$PROJECT_DIR$/sww01_testBroadcastStaticAndDynamic/sww01_testBroadcastStaticAndDynamic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sww02_testMultiActivity/sww02_testMultiActivity.iml" filepath="$PROJECT_DIR$/sww02_testMultiActivity/sww02_testMultiActivity.iml" />
+    </modules>
+  </component>
+</project>
